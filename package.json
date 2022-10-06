@@ -1,0 +1,11 @@
+{
+  "name": "com.softboiledgames.singleton",
+  "displayName": "Singleton Monobehaviour",
+  "description": "A object pooling package for use in Unity projects.",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "license": "MIT",
+  "author": {
+    "name": "Soft Boiled Games"
+  }
+}
