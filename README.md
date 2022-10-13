@@ -15,4 +15,4 @@ Singleton pattern implementation in Unity quick and easy.
 
 Add the following line to your `manifest.json` found in the "Packages" folder
 
-`    "com.softboiledgames.unityxtension": "git@github.com:SoftBoiledGames/SingletonMonobehaviour.git"`
+`    "com.softboiledgames.singleton": "git@github.com:SoftBoiledGames/SingletonMonobehaviour.git"`
