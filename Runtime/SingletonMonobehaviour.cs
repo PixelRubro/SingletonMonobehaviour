@@ -1,9 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
+﻿using UnityEngine;
 
-namespace SoftBoiledGames.Singleton
+namespace PixelSpark.Singleton
 {
     public class SingletonMonobehaviour<T> : MonoBehaviour where T : Component
     {
