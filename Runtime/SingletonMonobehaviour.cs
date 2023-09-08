@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace PixelSpark.Singleton
+namespace VermillionVanguard.Singleton
 {
     public class SingletonMonobehaviour<T> : MonoBehaviour where T : Component
     {
