@@ -1,11 +1,11 @@
 {
-  "name": "com.pixelsparkstudio.singleton",
+  "name": "com.pixelrouge.singletonmonobehaviour",
   "displayName": "Singleton Monobehaviour",
   "description": "A object pooling package for use in Unity projects.",
   "version": "0.0.1",
   "unity": "2019.4",
   "license": "MIT",
   "author": {
-    "name": "Pixel Spark Studio"
+    "name": "Pixel Rouge Studio"
   }
 }
